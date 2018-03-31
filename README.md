@@ -1,7 +1,7 @@
 # markdown
 Test markdown
 
-<div style=\"width:50%;float:left;\">
+<div style="width:50%;float:left;">
  
 ## 
 * [one](http://www.baidu.com)
@@ -10,7 +10,7 @@ Test markdown
 
 </div>
  
-<div style=\"width:50%;float:left;\">
+<div style="width:50%;float:left;">
 
 ## Section 2
 * one
